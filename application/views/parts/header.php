@@ -8,7 +8,7 @@
     <meta content="width=device-width" name="viewport">
     <meta content="enliven, html-template, magazine-template, newspaper-template, blog-template" name="keyword">
     <meta content="The Enliven - HTML5 Magazine Template - Design by Colourstheme Team" name="descripsion">
-    <title itemprop="name">The Enliven - Parallax Blog and Magazine HTML5 Template</title>
+    <title itemprop="name">Cianjur.go.id</title>
     <link rel="canonical" href="#" itemprop="url">
      
     <!--[if lte IE 9]>

@@ -63,7 +63,7 @@
             <div class="row">
               <!-- begin: logo-->
               <div class="col-md-6 e_left">
-                <figure class="e_site_logo"><a href="index-2.html"><img src="<?php echo base_url() ?>assets/placehold/logo.png" alt="" class="img-responsive"></a></figure>
+                <figure class="e_site_logo"><a href="<?php echo base_url() ?>index.html">CIANJUR.GO.ID</a></figure>
               </div>
               <!-- end: logo-->
               <!-- begin: top banner-->
@@ -84,45 +84,30 @@
                 <nav id="e_primary_nav" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
                   <!-- begin: ul#e_primary_menu-->
                   <ul id="e_primary_menu">
-                    <li class="current-menu-item"><a href="index-2.html" itemprop="url" class="hvr-sweep-to-bottom">Home</a>
+                    <li class="current-menu-item">
+                      <a href="<?php echo base_url() ?>index.html" itemprop="url" class="hvr-sweep-to-bottom">Home</a>
+                    </li>
+                    <li class="e_custom_menu_2">
+                      <a itemprop="url" class="hvr-sweep-to-bottom">Sumber Daya Kota</a>
                       <ul class="sub-menu">
-                        <li><a href="index-3.html" itemprop="url">Home 2</a></li>
-                        <li class="e_last"><a href="index-4.html" itemprop="url">Home 3        </a></li>
+                        <li><a href="single-post.html" itemprop="url">Berdasarkan Bidang Urusan</a></li>
+                        <li><a href="single-video.html" itemprop="url">SKPD</a></li>
+                        <li><a href="single-gallery.html" itemprop="url">Program</a></li>
                       </ul>
                     </li>
-                    <li class="e_custom_menu_2"><a href="blog.html" itemprop="url" class="hvr-sweep-to-bottom">Blog            </a></li>
-                    <li class="e_custom_menu_3"><a href="single-post.html" itemprop="url" class="hvr-sweep-to-bottom">Single</a>
+                    <li class="e_custom_menu_3">
+                      <a itemprop="url" class="hvr-sweep-to-bottom">Pemerintahann</a>
                       <ul class="sub-menu">
-                        <li><a href="single-post.html" itemprop="url">Standart</a></li>
-                        <li><a href="single-video.html" itemprop="url">Video</a></li>
-                        <li><a href="single-gallery.html" itemprop="url">Gallery</a></li>
-                        <li class="e_last"><a href="single-audio.html" itemprop="url">Audio</a></li>
+                        <li><a href="single-post.html" itemprop="url">Profil Bupati</a></li>
+                        <li><a href="single-video.html" itemprop="url">SKPD</a></li>
+                        <li><a href="single-gallery.html" itemprop="url">Kecamatan</a></li>
                       </ul>
                     </li>
-                    <li class="e_custom_menu_4"><a href="page.html" itemprop="url" class="hvr-sweep-to-bottom">Page</a>
-                      <ul class="sub-menu">
-                        <li><a href="page-fullwidth.html" itemprop="url">Page - Fullwidth</a></li>
-                        <li><a href="elements.html" itemprop="url">Elements</a></li>
-                        <li><a href="contact.html" itemprop="url">Contact</a></li>
-                        <li class="e_last"><a href="404.html" itemprop="url">Error 404</a></li>
-                      </ul>
+                    <li class="e_custom_menu_4">
+                      <a href="blog.html" itemprop="url" class="hvr-sweep-to-bottom">Acara</a>
                     </li>
-                    <li class="e_custom_menu_5"><a href="#" itemprop="url" class="hvr-sweep-to-bottom">Customize</a>
-                      <ul class="sub-menu">
-                        <li><a href="#" itemprop="url">Header</a>
-                          <ul class="sub-menu">
-                            <li><a href="index-header-2.html" itemprop="url">Header 2   </a></li>
-                          </ul>
-                        </li>
-                        <li><a href="#" itemprop="url">Background          </a>
-                          <ul class="sub-menu">
-                            <li><a href="boxed-custom-background-color.html" itemprop="url">Background color</a></li>
-                            <li><a href="boxed-custom-background-pattern.html" itemprop="url">Background pattern</a></li>
-                            <li><a href="boxed-custom-background-cover.html" itemprop="url">Background cover          </a></li>
-                            <li class="e_last"><a href="boxed-custom-background-slideshow.html" itemprop="url">Background slideshow</a></li>
-                          </ul>
-                        </li>
-                      </ul>
+                    <li class="e_custom_menu_5">
+                      <a href="blog.html" itemprop="url" class="hvr-sweep-to-bottom">Unduh</a>
                     </li>
                   </ul>
                   <!-- end: ul#e_primary_menu-->

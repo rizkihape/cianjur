@@ -2199,7 +2199,7 @@ The rules for ticker (display list of latest post by carousel effect).
 The basic rules for footer of site.
 ---------- */
 #e_site_footer > .e_top {
-  background: url("images/pattern-top.png") top left repeat-x transparent;
+  background: url("http://localhost/cianjur/assets/images/pattern-top.png") top left repeat-x transparent;
   background-color: #252932;
   padding-top: 50px;
   padding-bottom: 0px;
@@ -5425,23 +5425,23 @@ Make Enliven template to become friendly with all device.
 This module only use for demo site (you can delete it).
 ---------- */
 .e_custom_parallax_01 {
-  background-image: url("demo/bg-parallax.jpg");
+  background-image: url("http://localhost/cianjur/assets/demo/bg-parallax.jpg");
 }
 
 .e_custom_parallax_03 {
-  background-image: url("demo/widget/posts_slide_grid/bg.jpg");
+  background-image: url("http://localhost/cianjur/assets/demo/widget/posts_slide_grid/mesjid.jpg");
 }
 
 .e_custom_parallax_05 {
-  background-image: url("demo/widget/posts_slide_medium/bg.jpg");
+  background-image: url("http://localhost/cianjur/assets/demo/widget/posts_slide_medium/bg.jpg");
 }
 
 .e_custom_parallax_06 {
-  background-image: url("demo/widget/posts_slide/bg.jpg");
+  background-image: url("http://localhost/cianjur/assets/demo/widget/posts_slide/bg.jpg");
 }
 
 .e_custom_parallax_04 {
-  background-image: url("demo/widget/posts_sync/bg.jpg");
+  background-image: url("http://localhost/cianjur/assets/demo/widget/posts_sync/curug.jpg");
 }
 .e_custom_parallax_04 > .e_container {
   margin-bottom: 0px !important;
@@ -5462,7 +5462,7 @@ This module only use for demo site (you can delete it).
 }
 
 .e_custom_parallax_02 {
-  background-image: url("demo/widget/posts_carousel_medium_thumb/bg.jpg");
+  background-image: url("http://localhost/cianjur/assets/demo/widget/posts_carousel_medium_thumb/bg.jpg");
 }
 .e_custom_parallax_02 > .e_container {
   margin-bottom: 0px !important;
@@ -5596,7 +5596,7 @@ body.e_custom_body_01 {
 }
 
 body.e_custom_body_02 {
-  background: url("placehold/bg/pattern.png") repeat center center transparent;
+  background: url("http://localhost/cianjur/assets/placehold/bg/pattern.png") repeat center center transparent;
 }
 body.e_custom_body_02 .e_site_container {
   border-left-color: black;
