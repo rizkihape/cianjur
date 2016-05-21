@@ -63,7 +63,7 @@
             <div class="row">
               <!-- begin: logo-->
               <div class="col-md-6 e_left">
-                <figure class="e_site_logo"><a href="<?php echo base_url() ?>index.html"><img src="<?php echo base_url() ?>assets/placehold/logo.png" alt="" class="img-responsive" style="width:80px;"></a></figure>
+                <figure class="e_site_logo"><a href="<?php echo base_url() ?>index.html"><img src="<?php echo base_url() ?>assets/placehold/logo.png" alt="" class="img-responsive" style="width:260px;"></a></figure>
               </div>
               <!-- end: logo-->
               <!-- begin: top banner-->
