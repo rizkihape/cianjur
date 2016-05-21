@@ -1,8 +1,4 @@
 
-          <!-- end: .e_container-->
-          <!-- end: bottom of footer-->
-        </div>
-      </div>
       <!-- end: #e_site_footer (style 01)-->
       <!-- begin: load all javascript-->
       <script src="<?php echo base_url() ?>assets/js/enliven.custom.js"></script>

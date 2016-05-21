@@ -1,4 +1,7 @@
-
+<?php 
+  $this->load->view('parts/header');
+  $this->load->view('parts/navigation');
+ ?>
       <div id="e_site_body" class="clearfix">
         <!-- begin: widget posts slide medium no spacing-->
         <section class="e_section">
@@ -757,3 +760,10 @@
               </div>
             </div>
           </div>
+          <!-- end: .e_container-->
+          <!-- end: bottom of footer-->
+        </div>
+      </div>
+<?php 
+  $this->load->view('parts/footer');
+ ?>
