@@ -41,12 +41,12 @@
             <div class="row">
               <!-- begin: logo-->
               <div class="col-md-6 e_left">
-                <figure class="e_site_logo"><a href="<?php echo base_url() ?>index.html">CIANJUR.GO.ID</a></figure>
+                <figure class="e_site_logo"><a href="<?php echo base_url() ?>index.html"><img src="<?php echo base_url() ?>assets/placehold/logo.png" alt="" class="img-responsive" style="width:80px;"></a></figure>
               </div>
               <!-- end: logo-->
               <!-- begin: top banner-->
               <div class="col-md-6 e_right">
-                <figure class="e_top_banner"><a href="index-2.html"><img src="<?php echo base_url() ?>assets/placehold/banner/468x60.png" alt="" class="img-responsive"></a></figure>
+                <figure class="e_top_banner"><a href="index-2.html"><img src="<?php echo base_url() ?>assets/placehold/banner/468x60.png" alt="" class="img-responsive" style="position:relative; top:10px;"></a></figure>
               </div>
               <!-- end: top banner-->
             </div>
