@@ -6,52 +6,30 @@
           <!-- begin: .e_container-->
           <div class="e_container clearfix container">
             <div class="row">
-              <div class="col-md-8 col-sm-7 col-xs-12 e_left">			
+              <div class="col-md-12 col-sm-7 col-xs-12 e_left">			
                 <aside itemscope itemtype="http://schema.org/LiveBlogPosting" class="e_ticker">					
                   <div class="e_header">
-                    <h4>New Trending</h4>
+                    <h4>Contactt Us</h4>
                   </div>
-                  <div class="owl-carousel owl-theme">
-                    <div class="e_item">
-                      <article itemprop="liveBlogUpdate" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
-                        <time datetime="2015-06-01T08:00:00+07:00" itemprop="datePublished">03.04.2015</time>
-                        <h5 itemprop="headline"><a href="single-post.html">Let's make things better			</a></h5>
+                  <div class="owl-carousel owl-theme e_right">
+                  <div class="e_item">
+                    <article itemprop="liveBlogUpdate" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+                      <time itemprop="datePublished"><i class="fa fa-envelope-o"></i></time>
+                      <h5 itemprop="headline"> cianjur@cianjir.com</h5>
+                      &nbsp;
+                      <time itemprop="datePublished"><i class="fa fa-twitter"></i></time>
+                      <h5 itemprop="headline"> InfoCianjur</h5>
+                      &nbsp;
+                      <time itemprop="datePublished"><i class="fa fa-phone"></i></time>
+                      <h5 itemprop="headline"> +62-22-4234793</h5>
+                      &nbsp;
+                      <time itemprop="datePublished"><i class="fa fa-youtube"></i></time>
+                      <h5 itemprop="headline"> InfoCianjur</h5>
+                      &nbsp;
                       </article>
-                    </div>
-                    <div class="e_item">
-                      <article itemprop="liveBlogUpdate" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
-                        <time datetime="2015-06-01T08:00:00+07:00" itemprop="datePublished">05.06.2015</time>
-                        <h5 itemprop="headline"><a href="single-post.html">The miracles of science			</a></h5>
-                      </article>
-                    </div>
-                    <div class="e_item">
-                      <article itemprop="liveBlogUpdate" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
-                        <time datetime="2015-06-01T08:00:00+07:00" itemprop="datePublished">12.07.2015</time>
-                        <h5 itemprop="headline"><a href="single-post.html">Better sound through research			</a></h5>
-                      </article>
-                    </div>
-                    <div class="e_item">
-                      <article itemprop="liveBlogUpdate" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
-                        <time datetime="2015-06-01T08:00:00+07:00" itemprop="datePublished">24.07.2015</time>
-                        <h5 itemprop="headline"><a href="single-post.html">We bring good things to life			</a></h5>
-                      </article>
-                    </div>
-                    <div class="e_item">
-                      <article itemprop="liveBlogUpdate" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
-                        <time datetime="2015-06-01T08:00:00+07:00" itemprop="datePublished">07.08.2015</time>
-                        <h5 itemprop="headline"><a href="single-post.html">Making great things possible			</a></h5>
-                      </article>
-                    </div>
-                    <div class="e_item">
-                      <article itemprop="liveBlogUpdate" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
-                        <time datetime="2015-06-01T08:00:00+07:00" itemprop="datePublished">16.12.2015</time>
-                        <h5 itemprop="headline"><a href="single-post.html">The programmable logic company			</a></h5>
-                      </article>
-                    </div>
+                  </div>
                   </div>
                 </aside>
-              </div>
-              <div class="col-md-4 col-sm-5 col-xs-12 e_right"><a href="#" class="e_button e_icon e_login hvr-overline-from-center"><i class="e_icon e_before fa fa-user"></i>Signup</a><a href="#" class="e_button e_icon e_cart e_last hvr-overline-from-center"><i class="e_icon e_before fa fa-shopping-cart"></i>0 items</a>
               </div>
             </div>
           </div>
